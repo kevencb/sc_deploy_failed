@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Santander Consumer	</title>
-	<atom:link href="https://santanderfinancing.com/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://santanderfinancing.com/</link>
+	<atom:link href="https://kevencb.github.io/sc_deploy_failed/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kevencb.github.io/sc_deploy_failed/</link>
 	<description>Sencillo Personal Justo</description>
-	<lastBuildDate>Thu, 20 Mar 2025 17:40:50 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 14 Mar 2025 21:32:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
